@@ -1,0 +1,21 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://D:/develop/scala/lib/scala-compiler.jar" />
+          <root url="file://D:/develop/scala/lib/scala-library.jar" />
+          <root url="file://D:/develop/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
